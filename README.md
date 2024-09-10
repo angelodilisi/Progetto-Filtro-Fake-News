@@ -7,6 +7,7 @@ Il problema delle fake news è cresciuto esponenzialmente nell'ultimo decennio a
 **Link al dataset**
 
 **https://colab.research.google.com/github/ProfAI/progetti/blob/main/fake_news.ipynb#scrollTo=AuLFebsyDvKI**
+
 Parti da un'accurata analisi, rispondendo a domande come:
 
 le fake news sono più frequenti in una determinata categoria?
